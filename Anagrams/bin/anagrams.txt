@@ -1,0 +1,5 @@
+﻿A&DS
+For both the Search and the Add functions the hashtable implementation is faster.
+Both adding elements and searching the hashtable have an O(1) look up time . 
+For the binary Tree the look up time for both is log(n) 
+
